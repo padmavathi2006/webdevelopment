@@ -1,0 +1,154 @@
+body{
+	margin:0;
+	background: white;
+}
+.mainDiv{
+	background:white ;
+	margin:30px;
+	width:90%;
+}
+.header{
+	padding:10px;
+  background: 3px #EFBCC4;
+	display:flex;
+}
+.main{
+	width:70%;
+	padding-left:40px;
+}
+.left-main{
+	width:45%;
+	padding-left:30px ;
+  padding-top: 20px;
+  float: left;
+}
+.img{
+  width:90%;
+}
+.clear{
+	both
+}
+.right-main{
+	width: 50%;
+	float:right;
+	padding-top:96px;
+}
+
+.button{
+	background: skyblue;
+	border-radius: 50px;
+	padding:10px;
+	text-align: center;
+}
+.section1{
+	height: 100px;
+	margin: 40px;
+}
+.section1 b{
+	text-align: center;
+	display: block;
+}
+.section1 h2{
+	text-align: center;
+	display: block;
+}
+.sub{
+	height:100%;
+	width: 25%;
+	float: left;
+	border-radius: 10px;
+	margin-inline: 20px;
+	background: lightpink;
+	display: block;
+ 
+}
+.heading-img1{
+	width: 15%;
+	padding:10px;
+	background: lightpink;
+	border-radius: 10px;
+}
+.heading-img{
+	width:10%;
+	padding: 10px;
+	background:lightpink;
+	border-radius: 10px;
+}
+.sub p{
+	width: 45%;
+	border-radius: 10px;
+	padding: 10px;
+	height: 95%;
+	background: lightpink;
+}
+.sub b{
+	background: lightpink;
+	border-radius:10px;
+	padding:10px;
+}
+.section2{
+	position: relative;
+	max-width: 100%;
+}
+.section2 img{
+	width:100%;
+	height:100%;
+	display: block;
+}
+.top-right{
+	 width: 30%;
+   position:absolute ;
+   top: 50%;
+   left: 60%;
+   text-align:center;
+   border-radius: 10px;
+   background: white;
+   float: right;
+   padding: 40px;
+}
+.section3{
+	width: 70%;
+	height: 50%;
+	margin-left:20%;
+	margin-top:50px;
+}
+.left-sec{
+	width: 35%;
+	height: 45%;
+	padding: 30px;
+	border-radius: 20px;
+	text-align:auto;
+	float: left;
+	background: whitesmoke;
+}
+.right-sec{
+	width:50%;
+	height: 50%;
+	padding: 30px;
+	float: right;
+	border-radius: 20px;
+	background: lightpink;
+}
+.sub-right-sec{
+	width: 50%;
+	text-align: center;
+	height:25%;
+	float: left;
+}
+.section4{
+	width:90%;
+	height:20%;
+	background: lightpink;
+	padding: 20px;
+	margin-top: 10px;
+	position: relative;
+	border-radius: 10px;
+	float: right;
+}
+.left-sec4 img{
+	width:25%;
+	height:25%;
+	top:10%;
+	position: absolute;
+
+}
